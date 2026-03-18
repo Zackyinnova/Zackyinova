@@ -13,10 +13,7 @@
 
 ---
 
-## 📈 GitHub Stats
-![Zacky GitHub stats](https://github-readme-stats.vercel.app/api?username=Zackyinova&show_icons=true&theme=tokyonight)
-
----
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Zacky%20Dev&fontColor=ffffff&fontSize=40)
 
 ## 🔥 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zackyinova&layout=compact&theme=tokyonight)
